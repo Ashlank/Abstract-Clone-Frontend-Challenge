@@ -2,31 +2,31 @@
   {
     "title": "Using Abstract",
     "description": "Abstract lets you manage, version, and document your designs in one place.",
-    "icon": "/../public/Icon-1.png"
+    "icon": "/Icon-1.png"
   },
   {
     "title": "Manage your account",
     "description": "Configure your account settings, such as your email, profile details, and password.",
-    "icon": "/../public/Icon-2.png"
+    "icon": "/Icon-2.png"
   },
   {
     "title": "Manage organizations, teams, and projects",
     "description": "Use Abstract organizations, teams, and projects to organize your people and your work.",
-    "icon": "/../public/Icon-3.png"
+    "icon": "/Icon-3.png"
   },
   {
     "title": "Manage billing",
     "description": "Change subscriptions and payment details.",
-    "icon": "/../public/Icon-4.png"
+    "icon": "/Icon-4.png"
   },
   {
     "title": "Authenticate to Abstract",
     "description": "Set up and configure SSO, SCIM, and Just-in-Time provisioning.",
-    "icon": "/../public/Icon-5.png"
+    "icon": "/Icon-5.png"
   },
   {
     "title": "Abstract support",
     "description": "Get in touch with a human.",
-    "icon": "/../public/Icon-6.png"
+    "icon": "/Icon-6.png"
   }
 ]
